@@ -6,7 +6,11 @@ prose:
         field:
           element: "text"
           label: "title"
-      - date: CURRENT_DATETIME
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: CURRENT_DATETIME
       - name: "published"
         field:
           element: "checkbox"
