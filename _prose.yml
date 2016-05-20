@@ -6,8 +6,4 @@ prose:
         field:
           element: "text"
           label: "title"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-          value: CURRENT_DATETIME
+      - date: CURRENT_DATETIME
