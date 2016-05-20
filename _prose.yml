@@ -7,3 +7,8 @@ prose:
           element: "text"
           label: "title"
       - date: CURRENT_DATETIME
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
