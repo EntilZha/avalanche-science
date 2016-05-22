@@ -4,7 +4,6 @@ published: true
 title: Aventura educativa en Chile
 ---
 ## Cursos SAS con certificacion AIARE en Los Paraguas-Chile
-![][photos]
 
-[photos](https://goo.gl/photos/7UUZzrUFKeA24Uqk8)
+([https://goo.gl/photos/7UUZzrUFKeA24Uqk8](https://goo.gl/photos/7UUZzrUFKeA24Uqk8 "Course Pictures at Los Paraguas"))
 
